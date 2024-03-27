@@ -31,12 +31,18 @@ section article {
 	border: 1px solid black;
 	box-shadow: 0 2px 14px grey;
 	padding: 2.5%;
-	width: 25%
+	width: 20%
 }
 article img {
 	display: block;
 	height: 150px;
 	width: 90px;
+}
+article{
+	margin-right: 1vw;
+}
+section{
+	margin-left: -5vw;
 }
 section p {
   margin: 5px 0;
