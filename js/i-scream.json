@@ -8,7 +8,7 @@
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
-        "image": "https://feldmansasha.github.io/Javascript_Lab4/chocolate-mint.svg"
+        "image": "https://feldmansasha.github.io/Javascript_Lab4/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 250,
@@ -26,12 +26,12 @@
         "calories": 400,
         "type":"nut ice-cream",
         "ingredients":["Pistachio", "Milk", "Sugar"],
-        "image":"https://feldmansasha.github.io/Javascript_Lab4/images/pistachio.png"
+        "image":"https://feldmansasha.github.io/Javascript_Lab4/images/pistachio.svg"
     },{
         "name":"Cookie Dough",
         "calories": 450,
         "type":"Ben&Jerry's ice-cream",
         "ingredients":["Chocolate", "Cream", "Cookie"],
-        "image":"https://feldmansasha.github.io/Javascript_Lab4/images/ben&jerry's.png"
+        "image":"https://feldmansasha.github.io/Javascript_Lab4/images/ben.png"
     }]
 }
